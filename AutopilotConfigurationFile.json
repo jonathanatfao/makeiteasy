@@ -1,0 +1,13 @@
+{
+    "CloudAssignedTenantId":  "163ac468-abb8-44d0-81fd-d9db15e3af96",
+    "CloudAssignedAutopilotUpdateTimeout":  1800000,
+    "CloudAssignedAutopilotUpdateDisabled":  1,
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "Comment_File":  "Profile Default Autopilot Profile",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"unfao.onmicrosoft.com\"}}",
+    "CloudAssignedOobeConfig":  286,
+    "CloudAssignedDomainJoinMethod":  0,
+    "ZtdCorrelationId":  "2eb6c232-52f1-467e-9972-c070221ca665",
+    "CloudAssignedTenantDomain":  "unfao.onmicrosoft.com"
+}
