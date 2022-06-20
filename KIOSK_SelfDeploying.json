@@ -1,0 +1,15 @@
+{
+    "CloudAssignedDomainJoinMethod":  0,
+    "CloudAssignedDeviceName":  "FAO-KIOSK-%RAND:4%",
+    "CloudAssignedAutopilotUpdateTimeout":  1800000,
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "CloudAssignedTenantId":  "163ac468-abb8-44d0-81fd-d9db15e3af96",
+    "CloudAssignedAutopilotUpdateDisabled":  1,
+    "ZtdCorrelationId":  "57771448-34bb-49c0-9eb2-322454162ede",
+    "Comment_File":  "Profile Kiosk Self Deploying ",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"unfao.onmicrosoft.com\"}}",
+    "CloudAssignedOobeConfig":  1406,
+    "CloudAssignedTenantDomain":  "unfao.onmicrosoft.com",
+    "CloudAssignedLanguage":  "os-default"
+}
